@@ -54,6 +54,7 @@ Below are the cheatsheets currently available in this repository:
 
 21. [T-Distributed Stochastic Neighbor Embedding Cheat Sheet](https://towardsdatascience.com/t-distributed-stochastic-neighbor-embedding-t-sne-bb60ff109561): A cheat sheet for t-SNE.
 
+22. [The Probability and Statistics Cookbook](http://statistics.zone/): The probability and statistics cookbook is a succinct representation of various topics in probability theory and statistics. It provides a comprehensive mathematical reference reduced to its essence, rather than aiming for elaborate explanations.
     
 ## Contributing
 
