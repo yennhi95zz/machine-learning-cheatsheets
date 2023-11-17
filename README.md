@@ -54,6 +54,7 @@ Below are the cheatsheets currently available in this repository:
 
 21. [T-Distributed Stochastic Neighbor Embedding Cheat Sheet](https://towardsdatascience.com/t-distributed-stochastic-neighbor-embedding-t-sne-bb60ff109561): A cheat sheet for t-SNE.
 
+To learn more, check out the **ML Cheat Sheets** folder in the main branch.
     
 ## Contributing
 
