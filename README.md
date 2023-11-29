@@ -72,6 +72,12 @@ We encourage contributions to expand the collection of cheatsheets. If you'd lik
 
 Please make sure to provide proper attribution and adhere to any licensing requirements if you use content from external sources.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yennhi95zz/machine-learning-cheatsheets&type=Date)](https://star-history.com/#yennhi95zz/machine-learning-cheatsheets&Date)
+
+
+
 ## License
 
 This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the content for both personal and commercial purposes while providing attribution.
